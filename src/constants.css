@@ -1,0 +1,15 @@
+:root {
+  --font-dark: #282828;
+  --color-primary: #f5f5dc;
+  --color-secondary: #ffd52d;
+  /* --color-tertiary: #ff585f; */
+  --color-tertiary: #fe3a0e;
+  --color-primary-darker: #ebebd2;
+  --color-secondary-darker: #ebb92d;
+  --color-tertiary-darker: #fd424b;
+  --color-primary-opacity: #5ec5763a;
+  --color-secondary-opacity: #ffcd03dd;
+  --color-tertiary-opacity: #ff58602d;
+  --gradient-primary: linear-gradient(to top left, #39b385, #9be15d);
+  --gradient-secondary: linear-gradient(to top left, #ffb003, #ffcb03);
+}
