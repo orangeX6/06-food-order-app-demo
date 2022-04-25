@@ -1,4 +1,4 @@
-import React, { useImperativeHandle, useRef, forwardRef } from 'react';
+import React, { forwardRef } from 'react';
 
 import classes from './Input.module.css';
 
