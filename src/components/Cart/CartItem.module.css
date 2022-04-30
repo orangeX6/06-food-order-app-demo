@@ -25,7 +25,8 @@
 
 .price {
   font-weight: bold;
-  color: var(--color-tertiary-light);
+  /* color: var(--color-tertiary-light); */
+  color: var(--color-secondary);
 }
 
 .amount {
